@@ -62,7 +62,10 @@ header {
   height: 200px;
   line-height: 200px;
   text-align: center;
-  background: #303e49;
+  /* 背景图片显示方式 */
+/*  background-size: cover;
+  background-image: url(../images/HeadBg.jpg); */
+  background-color: mistyrose;
 }
 header h1 {
   color: #ffffff;
